@@ -2,7 +2,7 @@
 Titanic ,LSTM ,CNN
 # Titanic
 Implementation:
-i. Import Titanic Dataset
+i. Import Titanic Dataset.
 ii. Data Cleaning: Use an appropriate method to handle missing value
 iii. Feature engineering:
 iv. Perform exploratory data analysis (EDA) using, plot histogram, derive variance, Pearson
